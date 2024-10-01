@@ -141,6 +141,7 @@ const Title = styled.h1`
   font-weight: 600;
   color: #343a3f;
   line-height: 1.2;
+  
 `;
 
 const BottomLine = styled.div`
@@ -179,8 +180,6 @@ const Tag = styled.div`
   border: 1px solid #c1c7cd;
   border-radius: 4px;
   min-width: 24px;
-  height: 26px;
-  white-space: nowrap;
 
   h1 {
     font-size: 14px;
